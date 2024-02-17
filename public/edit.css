@@ -1,0 +1,29 @@
+.edit{
+    margin-left: 10px;
+}
+
+.chat{
+    margin-left: 10px;
+    background-color: whitesmoke;
+}
+
+.msg{
+    margin-left:10px;
+    border-radius: 10px;
+    background-color: blueviolet;
+    padding: 5px 15px;
+    display: inline-block;
+}
+
+.from,.to{
+    background-color: wheat;
+    border-radius: 2px;
+    padding: 5px;
+}
+
+.Submit{
+    border-radius: 10px;
+    margin-left: 10px;
+    background-color: tomato;
+    color:black;
+}

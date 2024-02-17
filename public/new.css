@@ -1,0 +1,20 @@
+.chat{
+    margin-left: 10px;
+}
+.from,.to,.msg{
+    border-radius: 10px;
+    margin-left: 10px;
+}
+.send{
+    margin-left: 10px;
+    border-radius: 5px;
+    background-color: crimson;
+    color: whitesmoke;
+}
+.back{
+    border: 2px solid black;
+    text-decoration: none;
+    border-radius: 4px;
+    background-color: peru;
+    margin-left:10px;
+}

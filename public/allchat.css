@@ -1,0 +1,37 @@
+body{
+    margin-left: 20px;
+}
+
+.chat{
+    background-color: aliceblue;
+    padding: 20px;
+    border-radius: 16px;
+    display:inline-block;
+}
+
+.msg{
+    background-color: dodgerblue;
+    color: white;
+    padding: 5px 15px;
+    border-radius: 16px;
+    
+}
+
+.new{
+    margin-left: 10px;
+    border-radius: 10px;
+    padding: 5px 10px;
+    background-color: darkolivegreen;
+    color: whitesmoke;
+}
+
+.edit,.delete{
+    border-radius: 5px;
+    color: red;
+}
+.delete{
+    border-radius: 5px;
+    color: black;
+    padding-left: 5px;
+    background-color: lightpink;
+}
